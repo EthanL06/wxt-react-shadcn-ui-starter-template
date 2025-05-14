@@ -35,13 +35,11 @@ All entrypoints live under `src/entrypoints/`:
 
 📖 [WXT entrypoints guide](https://wxt.dev/guide/essentials/entrypoints.html#including-other-files)
 
-
 ## Manifest Configuration
 
 Edit your extension manifest in `wxt.config.ts`.
 
 📖 [WXT manifest config docs](https://wxt.dev/guide/essentials/config/manifest.html)
-
 
 ## Tech Stack
 
@@ -49,3 +47,4 @@ Edit your extension manifest in `wxt.config.ts`.
 - **[React](https://reactjs.org/)** – UI framework
 - **[Tailwind CSS v4](https://tailwindcss.com/)** – Utility-first CSS
 - **[shadcn/ui](https://ui.shadcn.com/)** – Styled UI components
+- **[Prettier](https://prettier.io/)** – Code formatter
